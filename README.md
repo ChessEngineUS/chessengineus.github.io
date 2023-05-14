@@ -20,6 +20,15 @@ Here are the steps:
 11. The file should be called "chessengineus.github.io-main". Click on it. You may need to double click.
 12. Click on the only folder called "mother's day 2023 test 2". Once again, you may need to double click.
 13. Click on the file called "index".
-14. It should open a window in microsoft edge, click on the button "Click for Affirmation". It randomly gives one of thirty possible responses.
-Use it whenever you or your mom wants! Enjoy!
+14. It should open a window in microsoft edge, click on the button "Click for Affirmation". 
+15. It randomly gives one of thirty-one possible responses at this time of this writing. 
+16. It will include more possible messages as time goes on.
+
+Use this whenever you or your mom wants! Enjoy!
 Thank you for downloading. I will hopefully periodically make it a more sophisticated website, but for now, I hope this is sufficient.
+I am working on making this a publicly available website with a simple link, but many include cost on my part.
+This would mean I would have to charge people to pay for this, but I want to make this free and acessible to everyone.
+At some point it will become a publicaly available website and this README file will indicate so. I
+In the meantime the above process will allow you to have the file, make edits if you know basic, programming, and run the program locally.
+Thank you!
+-TRM
