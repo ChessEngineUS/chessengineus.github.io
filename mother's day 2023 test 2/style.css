@@ -1,0 +1,36 @@
+/* Set background color and font family */
+body {
+  background-color: #fc1515;
+  font-family: Arial, sans-serif;
+}
+
+/* Center the title */
+h1 {
+  text-align: center;
+  color:purple
+}
+
+/* Style the button */
+#affirmation-button {
+  background-color: #4CAF50;
+  color: rgb(4, 9, 255);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+/* Style the affirmation text */
+#affirmation-text {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color:orange
+}
+
+/* Additional Title */
+h2 {
+  text align: center;
+  color:gold
+}
