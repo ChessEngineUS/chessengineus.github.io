@@ -34,3 +34,9 @@ h2 {
   text align: center;
   color:gold
 }
+
+/* Link Font and Color */
+link {
+    font size: 18px;
+    color:aquamarine
+}
