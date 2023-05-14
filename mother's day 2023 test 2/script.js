@@ -29,6 +29,9 @@ const affirmations = [
   "You're the best chef in the whole world!",
   "Lots of love to you mom!",
   "You're always here for us!"
+  "We have immense gratitude towards you!",
+  "We're so appreciative of all of your helps and efforts!",
+  "You are so loved!"
 ];
 
 // Get the button and affirmation text elements from the HTML
